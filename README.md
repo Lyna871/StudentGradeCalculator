@@ -1,4 +1,4 @@
-# Student Grade Calculator ☕
+# Student Grade Calculator 
 
 A simple Java console application that calculates a student's total grades, average grade, and pass/fail status based on three subject grades.
 
